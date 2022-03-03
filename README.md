@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sass,Tailwind**
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I have worked on **WordPress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dranjna](https://github.com/dranjna)
 
